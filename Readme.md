@@ -13,6 +13,7 @@ This project is a React application that displays Kickstarter projects in a pagi
 - Paginated view for easy navigation.
 - Error handling for data fetching.
 - Unit test cases
+- Hosted link: `https://frontend-assignment-phi-one.vercel.app/`
 
 ---
 
